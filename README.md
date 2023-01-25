@@ -1,7 +1,10 @@
 <div id="header" align="center">
   <img src=https://media.giphy.com/media/g79am6uuZJKSc/giphy.gif width="1000"/>
 </div>
-
+<h1>
+  WELCOME HOME
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 <img src="https://komarev.com/ghpvc/?username=HaBbI4&style=flat-square&color=blue" alt=""/>
 <!--
