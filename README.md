@@ -1,6 +1,8 @@
 <div id="header" align="center">
-  WELCOME HOME
-  <img src="https://media.giphy.com/media/iDOOSqoC0k3VeT9rd5/giphy.gif" width="30px"/>
+  <h1>
+    WELCOME HOME
+    <img src="https://media.giphy.com/media/iDOOSqoC0k3VeT9rd5/giphy.gif" width="30px"/>
+   </h1>
 </div>
 
 <div id="header" align="center">
