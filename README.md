@@ -1,6 +1,5 @@
-Welcome Home
 <div id="header" align="center">
-  <img src=https://media.giphy.com/media/g79am6uuZJKSc/giphy.gif width="100"/>
+  <img src=https://media.giphy.com/media/g79am6uuZJKSc/giphy.gif width="1000"/>
 </div>
 
 
