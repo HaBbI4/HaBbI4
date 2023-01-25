@@ -1,11 +1,11 @@
-<div id="header" align="center">
-  <img src=https://media.giphy.com/media/g79am6uuZJKSc/giphy.gif width="1000"/>
-</div>
-
 <h1>
   WELCOME HOME
   <img src="https://media.giphy.com/media/iDOOSqoC0k3VeT9rd5/giphy.gif" width="30px"/>
 </h1>
+
+<div id="header" align="center">
+  <img src=https://media.giphy.com/media/g79am6uuZJKSc/giphy.gif width="1000"/>
+</div>
 
 <img src="https://komarev.com/ghpvc/?username=HaBbI4&style=flat-square&color=blue" alt=""/>
 <!--
