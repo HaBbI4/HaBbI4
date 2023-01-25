@@ -3,6 +3,8 @@ Welcome Home
   <img src=https://media.giphy.com/media/ZvLUtG6BZkBi0/giphy.gif width="1000"/>
 </div>
 
+
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 <!--
 **HaBbI4/HaBbI4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
